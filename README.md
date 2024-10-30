@@ -1,4 +1,4 @@
-# Tutorial on Large Language Models for Tabular Data
+# Tutorial on Large Language Models for Tabular Data: Progresses and Future Directions
 
 🌟 [A tutorial on “Large Language Models for Tabular Data”](https://t.co/50xoDQuXwz) at [the SIGIR’24 conference in D.C](https://sigir-2024.github.io/attend_Tutorials.html). 
 
